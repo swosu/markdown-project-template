@@ -45,5 +45,38 @@ b appears  1 time
 n appears  2 times
 ```
 
+## Command Prompt Output
+```
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\LAB>cd desktop
+
+C:\Users\LAB\Desktop>mkdir test
+
+C:\Users\LAB\Desktop>cd test
+
+C:\Users\LAB\Desktop\test>git init
+Initialized empty Git repository in C:/Users/LAB/Desktop/test/.git/
+
+C:\Users\LAB\Desktop\test>echo hello >> readme.md
+
+C:\Users\LAB\Desktop\test>git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        readme.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\LAB\Desktop\test>git add .
+
+C:\Users\LAB\Desktop\test>git commit -m "initial commit"
+```
+
 ## Summary
 For this assignment ... etc so on and so forth
