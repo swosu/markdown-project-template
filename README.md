@@ -1,7 +1,7 @@
 # Project Name
 
 ## Introduction 
-This is where my project introduction would go.
+This is where my project introduction would go.  This would include information about what the source code does and its purpose.  This paragraph would also include methods used such as Math.*random()* or even custom methods.
 
 ## Project Outline
 1.   Item 1
@@ -11,8 +11,17 @@ This is where my project introduction would go.
 3.   Item 3
 4.   Item ...
 
+The Project Outline can also be represented in this format:
+```java
+//Declaring variables
+//Doing other things
+//Other line comments used in outlining
+```
+
+
 ##  References & Literature
 *   Reference 1 URL: [Link Example](http://example.net/)
+   *   Write 2-3 sentences about your source and why you chose it.
 *   Reference 2 Book: MLA
     *   Liang, Y. Daniel. *Introduction to Java Programming: Comprehensive Version.* 10th ed. N.p.: Pearson, 2014. Print. 
 *   Reference 3 Book: APA
@@ -74,7 +83,7 @@ C:\Users\LAB\Desktop>cd test
 C:\Users\LAB\Desktop\test>git init
 Initialized empty Git repository in C:/Users/LAB/Desktop/test/.git/
 
-C:\Users\LAB\Desktop\test>echo hello >> readme.md
+C:\Users\LAB\Desktop\test>echo hello >> Readme.md
 
 C:\Users\LAB\Desktop\test>git status
 On branch master
@@ -84,7 +93,7 @@ Initial commit
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-        readme.md
+        Readme.md
 
 nothing added to commit but untracked files present (use "git add" to track)
 
