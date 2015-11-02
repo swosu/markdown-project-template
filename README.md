@@ -1,8 +1,24 @@
 # Project Name
-This is where my project description would go
 
-## Code
+## Introduction 
+This is where my project introduction would go.
 
+## Project Outline
+1.   Item 1
+    *   Sub-Item a
+    *   Sub-Item b
+2.   Item 2
+3.   Item 3
+4.   Item ...
+
+##  References & Literature
+*   Reference 1 URL: [Link Example](http://example.net/)
+*   Reference 2 Book: MLA
+    *   Liang, Y. Daniel. *Introduction to Java Programming: Comprehensive Version.* 10th ed. N.p.: Pearson, 2014. Print. 
+*   Reference 3 Book: APA
+    *   Liang, Y. (2014). *Introduction to Java programming: Comprehensive version* (Tenth ed.). 
+
+## Source Code
 ```java
 import java.io.File;
 import java.util.Scanner; 
@@ -37,7 +53,6 @@ public class CheckPalindrone {
 ```
 
 ## Console Output
-
 ```
 Enter a string: banana
 a appears  3 times
